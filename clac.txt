@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 i am shaurab hello 
 =======
 hello i am Ashwin giri
 >>>>>>> origin/ashwindai
+=======
+i am shaurab hello 
+>>>>>>> origin/iamsaurav
