@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 i am shaurab hello 
+=======
+hello i am Ashwin giri
+>>>>>>> origin/ashwindai
